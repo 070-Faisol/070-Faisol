@@ -61,7 +61,7 @@ docs(p1): init My Profile index
 ## 6. 🪪 Vivre Card (Identitas Pribadi)
 
 Moh Faisol — Pamekasan, Jawa Timur  
-**Den Den Mushi (Kontak):** `ace164996@gmail.com`
+**Den Den Mushi (Kontak):** `mfaisol919@gmail.com`
 
 
 ---
