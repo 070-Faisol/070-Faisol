@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center"><img width="498" height="200" alt="luffy-banner" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JwZnE4cGMwd2FlbTU0OHU4bXZkOGx5NXF4NWw5YzUzbWRzemNsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eTuzu8xIEqdDfPu9J/giphy.gif" /></div>
 
-<!--
-**070-Faisol/070-Faisol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🏴‍☠️ Moh Faisol 🏴‍☠️</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>"Aku akan menjadi Raja Programmer!"</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Straw_Hat_Crew-E3001B?style=for-the-badge" alt="Straw Hat">
+  <img src="https://img.shields.io/badge/Bounty-1,000,000_B-FFD700?style=for-the-badge" alt="Bounty">
+  <img src="https://img.shields.io/badge/Grand_Line-Explorer-0052CC?style=for-the-badge" alt="Grand Line">
+</p>
+
+---
+
+## 1. 🧭 Impian Sang Kapten (Motivasi Hidup)
+
+Mimpiku adalah menjadi programmer yang handal dan mengarungi lautan kode untuk menjadi *solo developer game*! Sama seperti Luffy yang mencari One Piece, aku suka game meski tidak terlalu pandai memainkannya, jadi biar aku saja yang membuat gamenya sendiri (seperti Franky merakit Thousand Sunny)! 
+
+## 2. ⚡ Kekuatan Haki & Buah Iblis (Kemampuan Teknologi)
+
+**Kekuatan yang telah dikuasai:**
+
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-Menengah-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Menengah-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Pemula-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-Pemula-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![MySQL/MariaDB](https://img.shields.io/badge/MariaDB-Menengah-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+**Sedang berlatih di pulau Rusukaina:** `Next.js` · `TypeScript` · `Drizzle ORM` · `MediaPipe` · `OpenCV`
+
+## 3. 🍖 Harta Karun yang Telah Ditemukan (Proyek)
+
+### 🖱️ Sistem Pemesanan dan Manajemen Restoran (Ala Baratie)
+Website yang sangat cocok untuk restoran atau pelaku usaha UMKM untuk memudahkan pelanggan memesan makanan (agar Sanji tidak kewalahan!). Sangat berguna juga untuk memanajemen restoran, terutama stok makanan agar kru tidak kelaparan, serta manajemen keuangan bajak laut.
+- **Peran:** Backend & Database Designer
+- **Log Pose (Tautan):** [Repositori GitHub](#)
+
+
+## 4. 📜 Logbook Pelayaran (Bukti Commit)
+
+
+Lencana Profil: [![GitHub Faisol](https://img.shields.io/badge/GitHub-Moh__Faisol-181717?style=for-the-badge&logo=github)](#)
+
+```bash
+$ git log --oneline -5
+
+
+docs(p1): init My Profile index
+```
+## 5. 🗺️ Peta Petualangan (Riwayat Pendidikan)
+
+| Tahun | Pulau / Institusi | Fraksi / Jurusan | Pencapaian / Bounty |
+| --- | --- | --- | --- |
+| Lulusan | SMA AN-NIDHAMIYAH | - | - |
+| Lulusan | SMP AN-NIDHAMIYAH | - | - |
+| Lulusan | MI AN-NIDHAMIYAH | - | - |
+
+
+## 6. 🪪 Vivre Card (Identitas Pribadi)
+
+Moh Faisol — Pamekasan, Jawa Timur  
+**Den Den Mushi (Kontak):** `ace164996@gmail.com`
+
+
+---
+
+<p align="center">
+  Dibuat dengan 🍖 oleh Moh Faisol <br>
+  <a href="#">Tautan Video</a> | <a href="#">Tautan Repositori</a>
+</p>
