@@ -51,11 +51,12 @@ docs(p1): init My Profile index
 
 ## 5. 🗺️ Peta Petualangan (Riwayat Pendidikan)
 
-| Tahun   | Pulau / Institusi | Fraksi / Jurusan | Pencapaian / Bounty |
-| ------- | ----------------- | ---------------- | ------------------- |
-| Lulusan | SMA AN-NIDHAMIYAH | IPS              | -                   |
-| Lulusan | SMP AN-NIDHAMIYAH | -                | -                   |
-| Lulusan | MI AN-NIDHAMIYAH  | -                | -                   |
+| Tahun   | Pulau / Institusi | Fraksi / Jurusan |
+| ------- | ----------------- | ---------------- |
+| Lulusan | SMA AN-NIDHAMIYAH | IPS              |
+| Lulusan | SMP AN-NIDHAMIYAH | -                |
+| Lulusan | MI AN-NIDHAMIYAH  | -                |
+
 
 ## 6. 🪪 Vivre Card (Identitas Pribadi)
 
